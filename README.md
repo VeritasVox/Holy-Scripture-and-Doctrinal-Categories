@@ -20,6 +20,7 @@ A biblical framework for understanding the authority of Scripture and the weight
 - [On Backsliding, Apostasy, and Heart Posture](#on-backsliding-apostasy-and-heart-posture)
 - [On False Humility, False Unity, and Gospel Compromise](#on-false-humility-false-unity-and-gospel-compromise)
 - [On Schism, Separation, and Ecclesiastical Fellowship](#on-schism-separation-and-ecclesiastical-fellowship)
+- [Appendix: Modern Doctrinal Misclassifications](Appendix-Modern-Doctrinal-Misclassifications)
 
 ---
 
@@ -511,6 +512,189 @@ While we pray for and show Christian charity to all who name the name of Christ,
 - That doctrinal clarity serves mission, not hinders it (1 Timothy 4:16)
 - That the marks of a true church are non-negotiable
 - That partnership requires more than sentiment—it requires shared submission to Scripture
+
+---
+
+## Appendix: Modern Doctrinal Misclassifications
+
+This appendix identifies common errors in contemporary evangelicalism where doctrines are systematically misclassified—either elevated beyond their biblical weight or diminished below it—resulting in false unity, doctrinal confusion, or the toleration of serious error. Each entry identifies the doctrine, the common misclassification, the correct classification, the violation of the framework, and why it matters.
+
+---
+
+### 1. God's Created Order for Men and Women
+
+**Common Classification**: Secondary or Conscience  
+**Correct Classification**: Primary (Salvific and Worship-Defining) when persistent and unrepentant  
+**Framework Violation**: Violates the **Covenantal Filter** and the principle that doctrines tied to **creation order** and **persistent, unrepentant sin** are always primary.
+
+**Why It Matters**:  
+The biblical teaching on God's design for men and women is not a cultural application of general principles—it is grounded in God's creational design of male and female in His image (Genesis 1:27), the relational order established at creation (1 Timothy 2:12-13), and the covenant structure of marriage as a picture of Christ and the church (Ephesians 5:22-33). Scripture consistently grounds these truths in creation, not culture, which places them under the authority of God's unchanging design.
+
+Paul is clear that persistent violations of God's created order for sexuality and relational structure exclude from the kingdom of God (1 Corinthians 6:9-10). This is not a matter of conscience or secondary application. It is a matter of salvation, worship, and the nature of holiness.
+
+To classify issues tied to God's created order as secondary is to treat persistent, unrepentant sin as negotiable. This violates the **Posture Clause**: willful, corrected-yet-unrepentant disobedience transforms any issue into a primary concern. When someone is shown the clear teaching of Scripture on God's design and refuses to submit, they are not merely in error on a secondary matter—they are in rebellion against God's revealed will.
+
+**The Posture Test**: A person who holds confused views out of ignorance or poor teaching may still be regenerate. But once corrected with Scripture and they refuse to submit, defending their position as acceptable before God, **the issue becomes primary salvifically** because the heart posture is now rebellion, not confusion.
+
+---
+
+### 2. Women in Church Office (Eldership/Pastoral Teaching)
+
+**Common Classification**: Secondary or Conscience  
+**Correct Classification**: Secondary Salvifically (in cases of ignorance), but **Primary Salvifically when persistently defended after correction**; Primary Ecclesially in all cases  
+**Framework Violation**: Violates **Dual-Level Clarity** and the **Posture Clause**—the principle that a doctrine can be secondary for salvation in cases of ignorance but becomes primary when willfully defended, and is always primary for church order and worship.
+
+**Why It Matters**:  
+The question of women serving as elders or exercising authoritative teaching over men in the gathered assembly is not a matter of cultural preference or spiritual gifting—it is a matter of **creational order** (1 Timothy 2:12-13) and the **structure of the church** as established by apostolic authority (1 Timothy 3:1-7; Titus 1:5-9). Paul grounds his prohibition not in first-century culture, but in the creation account itself: "Adam was formed first, then Eve."
+
+**The Content Test**: At the level of content, this is secondary salvifically for someone genuinely confused or poorly taught. A person who holds to egalitarianism out of ignorance may still be a genuine believer. However, this error cannot be tolerated within a local church's practice without undermining the biblical pattern for worship and leadership. This is **primary ecclesially**—a church must have a coherent, biblical practice.
+
+**The Posture Test**: Once a person is shown the biblical teaching grounded in creation order and they refuse to submit, **the issue becomes primary salvifically** because the heart posture is now rebellion, not confusion. Persistent defense of women in eldership after clear scriptural correction is defiance against God's ordained structure for His church.
+
+**For Churches**: A church that institutionalizes women in eldership is not merely wrong on ecclesiology—it is encoding defiance into its worship structure. This is **primary salvific error** because it represents systematic, corporate rebellion against God's revealed order. Such a church has made egalitarianism a functional doctrine that governs its practice, which elevates it to a matter of worship and therefore a matter of faithfulness to God.
+
+---
+
+### 3. Justification by Faith Alone
+
+**Common Classification**: Sometimes treated as secondary in ecumenical dialogues (e.g., modern evangelical-Catholic statements)  
+**Correct Classification**: Primary (Gospel-Defining)  
+**Framework Violation**: Direct violation of the principle that **denying a primary doctrine results in preaching a false gospel** (Galatians 1:8-9).
+
+**Why It Matters**:  
+Justification by faith alone is the article upon which the church stands or falls. To compromise on this doctrine—whether by adding works as a co-instrument of justification, by affirming baptismal regeneration as necessary for salvation, or by treating Rome's Council of Trent as anything less than anathema—is to preach another gospel.
+
+Modern attempts to downgrade this to a "secondary" issue in the name of unity with Roman Catholicism are not humility—they are betrayal. Paul did not treat the Judaizers' insistence on circumcision as a secondary matter. He pronounced a curse on anyone who preached a gospel that added works to faith (Galatians 1:8-9). The Reformation was not a tragic misunderstanding—it was a necessary defense of the gospel itself.
+
+---
+
+### 4. Theonomy / Mosaic Civil Law in the New Covenant
+
+**Common Classification**: Sometimes elevated to Primary; often treated as safely Secondary  
+**Correct Classification**: Serious doctrinal error that violates the Covenantal Filter; can become Primary Salvifically when defended after correction  
+**Framework Violation**: Violates the **Covenantal Filter**—the safeguard that Old Covenant civil laws apply only through the fulfillment and reinterpretation of the New Covenant.
+
+**Why It Matters**:  
+Theonomy—the belief that the Mosaic civil law should be enforced by modern civil governments—errs by failing to recognize the **categorical distinction** between Israel as a theocratic nation under the old covenant and the church under the new covenant. The civil laws given to Israel were tied to her unique role as a covenant nation, a role that has been fulfilled in Christ and does not transfer to Gentile nations or the church.
+
+This is not to say that God's moral law (summarized in the Ten Commandments and affirmed throughout the New Testament) is irrelevant. It remains binding. But the **civil penalties** prescribed in the Mosaic law (e.g., stoning for Sabbath-breaking, execution for adultery) were tied to Israel's specific covenant administration and do not bind the nations today.
+
+**The Danger**: Theonomy is not a benign secondary disagreement. It is a **serious covenantal distortion** that threatens both the law-gospel distinction and covenant theology. It often binds consciences where Scripture leaves them free and can functionally reintroduce works-righteousness by treating the Mosaic code as normative for new covenant believers.
+
+**The Content Test**: Many theonomists still affirm justification by faith alone and the sufficiency of Christ's work. For these individuals, theonomy may be serious error without being damnable heresy. They are wrong about the application of the law, but they may still hold the gospel.
+
+**The Posture Test**: When theonomy is defended after biblical correction—especially when it functionally introduces works into standing with God, binds consciences as if the old covenant civil code were normative, or treats disagreement as unfaithfulness to God's law—**it becomes primary salvifically** because the system now threatens the gospel itself.
+
+**For Churches**: Churches that enforce theonomy as a rule of faith and fellowship, requiring adherence to Mosaic civil penalties as a matter of orthodoxy, have made it a primary issue. Such institutionalization moves theonomy from serious error into the realm of binding consciences unlawfully and distorting the covenants.
+
+---
+
+### 5. Eschatology (Amillennialism, Premillennialism, Postmillennialism)
+
+**Common Classification**: Secondary  
+**Correct Classification**: Secondary (unless it results in Gospel Distortion)  
+**Framework Violation**: Becomes Primary if it denies **final judgment**, the **bodily return of Christ**, or affirms **full preterism** (the belief that all prophecy, including the resurrection and final judgment, was fulfilled in AD 70).
+
+**Why It Matters**:  
+The Bible permits legitimate diversity in eschatological frameworks. Amillennialists, historic premillennialists, and postmillennialists all affirm the essential gospel realities: Christ will return bodily, the dead will be raised, the final judgment will occur, and the eternal state will be established. Disagreement on the timing and nature of the millennium does not undermine these core truths.
+
+However, when eschatology is used to **deny the future, bodily return of Christ**, to **redefine the resurrection as purely spiritual**, or to **eliminate final judgment**, it ceases to be a secondary matter. Full preterism (also called "hyper-preterism") is not an acceptable eschatological variant—it is a denial of core Christian doctrine. The same is true of any eschatology that functionally denies the resurrection of the body or the final, visible return of Christ.
+
+**The Posture Test**: If someone is corrected with Scripture showing that Christ's return, the resurrection, and final judgment are future, bodily, and universal, and they persist in denying these truths, **the issue becomes primary salvifically**.
+
+---
+
+### 6. Mode and Subjects of Baptism
+
+**Common Classification**: Secondary  
+**Correct Classification**: Secondary (Ecclesially Important, Not Salvific—unless tied to justification)  
+**Framework Violation**: None when properly understood; becomes Primary if tied to regeneration or justification and defended after correction.
+
+**Why It Matters**:  
+Baptism is a divinely instituted ordinance, and disagreement over its proper mode (immersion vs. sprinkling) and subjects (believers only vs. covenant children) has historically resulted in denominational distinctions. However, Scripture does not tie one's eternal salvation to holding the correct view of baptism's administration, provided one affirms that:
+- Baptism is a command of Christ (Matthew 28:19)
+- It signifies union with Christ in His death and resurrection (Romans 6:3-4)
+- It is distinct from and does not accomplish regeneration (contra baptismal regeneration)
+
+Baptists and Paedobaptists (those who baptize infants) can recognize each other as genuine Christians, even while maintaining that the other is wrong on this issue. The **Dual-Level Clarity** principle applies here: baptism is secondary *salvifically* (you can be wrong about it and still be saved), but it is primary *ecclesially* (a local church must have a coherent, biblical practice and cannot baptize infants on Sundays and believers only on Wednesdays).
+
+**When It Becomes Primary**: The error occurs when groups elevate baptism to a salvific necessity (as in Roman Catholicism, certain streams of the Church of Christ, or Eastern Orthodoxy), making it a means of justification rather than a sign and seal of the covenant. When someone is shown that baptism does not regenerate or justify and they persist in teaching that it does, **this becomes primary salvifically** because it distorts the gospel itself.
+
+---
+
+### 7. Universalism (The Belief That All Will Be Saved)
+
+**Common Classification**: Sometimes treated as a "hopeful" theological variant  
+**Correct Classification**: Primary (Heresy—Denies the Gospel and Final Judgment)  
+**Framework Violation**: Direct denial of **primary doctrine**—specifically, the doctrines of hell, final judgment, and the exclusivity of salvation through Christ alone.
+
+**Why It Matters**:  
+Universalism is not a secondary issue or an area of theological exploration. It is a denial of core Christian doctrine. Scripture is unambiguous:
+- There is a final judgment (Revelation 20:11-15)
+- Not all will be saved (Matthew 7:13-14; 25:31-46)
+- Hell is eternal, conscious punishment (Matthew 25:46; Revelation 14:11)
+- Salvation is only through faith in Christ (John 14:6; Acts 4:12)
+
+Universalism denies all of this. It redefines the gospel as God's universal love without His justice, Christ's work as a universal reconciliation rather than a particular atonement, and hell as either temporary or nonexistent. This is not a variant of Christian theology—it is a departure from it.
+
+**The Posture Clause**: Even if someone arrives at universalism out of emotional concern for the lost, once they are shown that Scripture teaches the reality of eternal punishment and they refuse to submit, they have moved from ignorant error into willful rebellion. At that point, they are not holding a secondary view—they are denying a primary doctrine of the faith.
+
+---
+
+### 8. Prosperity Gospel / Word of Faith Movement
+
+**Common Classification**: Sometimes tolerated as "excessive" or "imbalanced" but not outright heretical  
+**Correct Classification**: Primary (False Gospel)  
+**Framework Violation**: Violates the principle that **redefining the gospel or the nature of faith constitutes heresy**, not mere doctrinal imbalance.
+
+**Why It Matters**:  
+The prosperity gospel is not Christianity with an emphasis problem—it is a different religion. It teaches that:
+- Faith is a force that manipulates God into giving health and wealth
+- Jesus's atonement secures not only spiritual salvation but guaranteed physical healing and financial prosperity
+- Suffering, poverty, and sickness are signs of insufficient faith
+
+This is a denial of the biblical gospel, which calls us to take up our cross, promises tribulation in this world (John 16:33), and teaches that godliness with contentment is great gain (1 Timothy 6:6). The prosperity gospel redefines faith (from trust in Christ to a formula for manipulating God), Christ's work (from sin-bearing substitute to health-and-wealth provider), and the Christian life (from self-denial to self-fulfillment).
+
+Paul pronounces anathema on anyone who preaches a different gospel (Galatians 1:8-9). The prosperity gospel qualifies. It must not be tolerated as a secondary issue or treated as a matter of emphasis. It is a soul-destroying lie that must be exposed and rejected.
+
+---
+
+### Summary Table
+
+| Doctrine | Common Classification | Correct Classification | Why It's Primary (or Secondary) |
+|----------|----------------------|------------------------|----------------------------------|
+| **God's Created Order (Men/Women)** | Secondary/Conscience | **Primary Salvifically** (when persistently defended after correction) | Grounded in creation order; persistent sin excludes from kingdom (1 Cor 6:9-10); Posture Clause applies |
+| **Women in Office** | Secondary/Conscience | **Primary Salvifically** (when defended after correction); **Primary Ecclesially** (always) | Based on creation order (1 Tim 2:12-13); persistent defiance = rebellion; churches encoding it = corporate defiance |
+| **Justification by Faith Alone** | (Wrongly downgraded in ecumenism) | **Primary** (Gospel-Defining) | Denial = false gospel (Gal 1:8-9) |
+| **Theonomy** | (Wrongly treated as safely secondary) | **Serious Error**; becomes **Primary Salvifically** when defended and binds consciences | Covenantal Filter violated; threatens law-gospel distinction; can contaminate gospel when persistently defended |
+| **Eschatology (General)** | Secondary | **Secondary** | Permits diversity unless it denies return of Christ, resurrection, or judgment |
+| **Baptism Mode/Subjects** | Secondary | **Secondary** | Ecclesially important but not salvific; becomes primary if tied to justification and defended |
+| **Universalism** | (Wrongly tolerated) | **Primary** (Heresy) | Denies hell, judgment, exclusivity of Christ |
+| **Prosperity Gospel** | (Wrongly tolerated) | **Primary** (False Gospel) | Redefines faith, atonement, and Christian life; not Christianity |
+
+---
+
+### The Rule That Governs All of This
+
+**Content Test**: Some doctrines are primary by nature because Scripture binds them to God's being, the gospel, creation order, or kingdom exclusion lists.
+
+**Posture Test**: When any doctrine is **knowingly** resisted after clear biblical correction, the matter becomes **primary salvifically** because the issue is now defiance against the Lord, not mere misunderstanding.
+
+Persistent, unrepentant defiance after correction is **always primary salvifically**, regardless of the content-level classification.
+
+---
+
+### Pastoral Application
+
+This appendix is not meant to foster witch hunts or theological nitpicking. It is meant to train pastors, elders, and mature believers in **doctrinal discernment**. The modern church is awash in confusion because we have lost the ability to distinguish between what matters eternally and what does not.
+
+Use this framework to:
+1. **Protect the gospel** by refusing to treat its denial as a secondary issue
+2. **Preserve church order** by recognizing that some secondary issues require ecclesial separation even when they don't require personal separation
+3. **Promote genuine unity** by not elevating secondary or conscience issues to primary status
+4. **Confront error** with clarity, not just kindness—because leaving people in doctrinal confusion is not love
+
+The goal is not to divide unnecessarily, but to **divide rightly** (2 Timothy 2:15)—to separate truth from error, wheat from chaff, and the teaching that accords with godliness from the teaching that undermines it.
 
 ---
 
