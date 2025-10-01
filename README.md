@@ -1,4 +1,5 @@
 # Holy Scripture and Doctrinal Categories
+**Keywords**: Sola Scriptura • Biblical Authority • Inerrancy • Scripture Sufficiency • Biblical Hermeneutics • Doctrinal Categories • Primary Doctrine • Secondary Doctrine • Matters of Conscience • Theological Triage • Gospel Fidelity • Heresy • False Teaching • Church Discipline • Biblical Love • True Unity • Separation vs Schism • Fear of Man • Legalism • Antinomianism • Christian Liberty • Pastoral Theology
 
 > *"All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness."* — 2 Timothy 3:16
 
