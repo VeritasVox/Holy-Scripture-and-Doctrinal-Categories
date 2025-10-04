@@ -5,6 +5,8 @@
 
 A biblical framework for understanding the authority of Scripture and the weight of doctrinal distinctions.
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 ---
 
 ## Table of Contents
@@ -1411,12 +1413,24 @@ Use this framework to:
 
 The goal is not to divide unnecessarily, but to **divide rightly** (2 Timothy 2:15)—to separate truth from error, wheat from chaff, and the teaching that accords with godliness from the teaching that undermines it.
 
----
-
-## License
-
-This document is released into the public domain. Share freely. Modify freely. Translate freely. Use it to proclaim truth—without compromise.
 
 ---
 
 **"Contend for the faith that was once for all delivered to the saints."** — Jude 3
+
+---
+
+## License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+---
+
+© 2025 | Licensed under CC BY 4.0
