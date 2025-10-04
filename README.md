@@ -1433,4 +1433,4 @@ Under the following terms:
 
 ---
 
-© 2025 | Licensed under CC BY 4.0
+© 2025 VeritasVox | Licensed under CC BY 4.0
