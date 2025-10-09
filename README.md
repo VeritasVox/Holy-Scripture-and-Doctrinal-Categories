@@ -19,6 +19,7 @@ A biblical framework for understanding the authority of Scripture and the weight
   - [Secondary Doctrine](#secondary-doctrine-ecclesial-and-disciplinary-not-salvific)
   - [Matters of Conscience](#matters-of-conscience-liberty-without-license)
   - [Structural Safeguards](#structural-safeguards)
+  - [Complete Decision Flowchart](#complete-decision-flowchart)
 - [Progressive Discipline and the Stages of Departure](#progressive-discipline-and-the-stages-of-departure)
 - [On Ignorance, Sincerity, and Response to Truth](#on-ignorance-sincerity-and-response-to-truth)
 - [On Biblical Love and the Counterfeit "Being Loving"](#on-biblical-love-and-the-counterfeit-being-loving)
@@ -474,6 +475,438 @@ These warrant denominational distinction and may limit certain partnerships, but
 All interpretation must uphold authorial intent, covenantal structure, and doctrinal coherence. God does not contradict Himself. The analogy of faith—interpreting Scripture with Scripture—is not optional. Any interpretation that sets one passage against another, or that makes God appear unjust, unloving, or inconsistent, is to be rejected.
 
 This is why systematic theology is necessary. We do not interpret isolated texts—we interpret texts in light of the whole counsel of God. The Bible is one book with one divine Author, and it speaks with one voice.
+
+---
+
+## COMPLETE DECISION FLOWCHART
+
+---
+
+## DEFINITIONS: THE THREE STATES (Individual Posture)
+
+Throughout this flowchart, when evaluating individuals on secondary doctrines, we reference three observable states based on their response to biblical correction:
+
+**STATE 1: NOT YET CONFRONTED**
+- Never shown the biblical text(s) in proper context
+- No proper exegesis received
+- May have been taught error by trusted sources
+- Has NOT researched or taught on this topic
+- **Status:** Ignorance, not defiance
+
+**STATE 2: CONFRONTED + SUBMITS (or processing toward submission)**
+- Shown biblical text in context with proper exegesis
+- Observable indicators: changes view, asks clarifying questions, wrestling with text (not dismissing), eventually aligns practice/teaching with Scripture
+- **Status:** Teachable, not rebellious
+
+**STATE 3: CONFRONTED + DEFENDS ERROR (or teaches contrary with awareness)**
+- Shown biblical text in context OR has taught on topic with demonstrable awareness
+- Observable indicators: "I disagree" (but can't show exegetical error), "that was cultural" (when text grounds in creation), continues teaching/practicing error, stiffens neck, emotional appeals instead of biblical argument
+- After second confrontation with witnesses, still persists
+- **Status:** Willful defiance
+
+**NOTE:** Only State 3 elevates a secondary doctrine to primary salvifically. States 1 and 2 remain secondary salvifically (individual can be wrong and saved if humble/teachable).
+
+---
+
+### START: Examine the doctrine in question
+
+---
+
+## STEP 1: PRIMARY CONTENT TESTS
+
+**Does denying this doctrine result in:**
+
+**A. Worshiping a FALSE GOD?**
+- Wrong view of Father, Son, OR Spirit
+- → **PRIMARY (Path 1) - STOP**
+
+**B. Preaching a FALSE GOSPEL?**
+- Alters justification, atonement, regeneration
+- → **PRIMARY (Path 1) - STOP**
+
+**C. Denying CHRIST'S PERSON or WORK?**
+- Deity, humanity, virgin birth, resurrection, atonement
+- → **PRIMARY (Path 1) - STOP**
+
+**If NONE of the above** → Continue to Step 2
+
+---
+
+## STEP 2: CREATION ORDER TEST
+
+**⚠️ TEACHERS/OFFICERS NOTE:**
+Teachers and officers are judged more strictly (James 3:1). Evidence of aware contradiction of creation-grounded apostolic commands moves directly to State 3 with accelerated process.
+
+**Is doctrine explicitly grounded in creation (Gen 1-2) by NT text?**
+
+### IF YES → Branch by actor:
+
+#### FOR INDIVIDUALS:
+
+**A. AUTOMATIC STATE 3 (PRIMARY SALVIFICALLY) if:**
+
+Person TEACHES on **commanded, creation-grounded, apostolic norm** with demonstrable awareness of texts, yet teaches/practices opposite.
+
+**EVIDENCE CHECK (required):**
+
+Materials show engagement with:
+- The specific passage (e.g., 1 Tim 2:11-15)
+- Its creation grounding (e.g., Gen 2 appeal in v.13)
+- Its apostolic authority (e.g., 1 Cor 14:37 "command of Lord")
+
+**PROCESS: Accelerated, not bypassed**
+- Public correction immediately (Gal 2:11-14; Titus 1:9-11)
+- Formal charges without delay
+- Exclusion if impenitence is clear
+- Church order maintained (Matt 18; 1 Tim 5:19-20)
+
+**TEACHING IGNORANCE EXCEPTION:**
+If upon FIRST showing they immediately submit → DROP TO STATE 2 (rare but just)
+
+**B. Otherwise:**
+
+If they willfully defy creation-grounded apostolic command AFTER proper biblical correction (pericope-level, witnesses, church process, time given)
+→ **PRIMARY salvifically (Path 2)**
+
+**NOTE:** Protects those mid-catechesis. Requires demonstrated defiance after correction.
+
+---
+
+#### FOR CHURCHES:
+
+**Does church institutionalize the denial?**
+- Offices, worship order, sexual ethics grounded in creation
+- → **PRIMARY ECCLESIALLY (Path 2)**
+
+**CHURCH DUTY:**
+Halt teaching immediately to protect flock while charges are processed. Primary ecclesially requires immediate action to stop structural defiance.
+
+---
+
+### IF NO → Continue to Step 3
+
+---
+
+## STEP 3: COVENANTAL FILTER
+
+**Is this Old Covenant law?**
+
+**MORAL LAW** (abiding norms rooted in God's character and creation, not just "Ten Commandments repeated")
+→ Continue to Step 4
+
+**CEREMONIAL LAW** (sacrifices, temple, priests, dietary)
+→ **FULFILLED in Christ (not binding) - STOP**
+
+**CIVIL LAW** (Israel's theocracy, specific penalties)
+→ **NOT BINDING on church/nations** (unless NT reaffirms the substance under New Covenant) - STOP
+
+**NOT OLD TESTAMENT LAW**
+→ Continue to Step 4
+
+---
+
+## STEP 4: ROMANS 14 MARKERS
+**(CHECK BEFORE COMMAND TEST)**
+
+**⚠️ CRITICAL:** If Scripture itself flags as disputable, route to conscience BEFORE scanning for command language
+
+**Does Scripture explicitly treat this as LIBERTY?**
+
+**Tests:**
+- "Let each be fully convinced in his own mind" (Rom 14:5)
+- Can be done "unto the Lord" either way (Rom 14:6)
+- Called "disputable matters" (διακρίσεις διαλογισμῶν, Rom 14:1)
+- No binding command given
+- Scripture gives examples: food, drink, days (Rom 14; 1 Cor 8-10)
+
+**GUARDRAILS (Conscience never operates outside these):**
+
+1. No appeal to conscience may overrule clear command
+2. No appeal to conscience may rewire church order
+3. Romans 14 liberty NEVER applies where my practice:
+   - Predictably causes brother to sin (1 Cor 8:9-13)
+   - Scandalizes the weak (Rom 14:13-21)
+   - Fractures the body's worship (1 Cor 14:26-40)
+
+**IF YES** (all tests + within guardrails)
+→ **CONSCIENCE LEVEL** - Go to POSTURE TEST (conscience track)
+
+**IF NO** → Continue to Step 5
+
+---
+
+## STEP 5: COMMAND AND DISCIPLINE TEST
+
+**Does Scripture use binding command language OR regulate church structure/worship?**
+
+**Tests:**
+- "Command of the Lord" (1 Cor 14:37)
+- "I charge you" (1 Tim 5:21)
+- Connected to discipline/exclusion
+- **SALVATION-EXCLUSION LISTS** (1 Cor 6:9-10; Gal 5:19-21; Eph 5:5)
+  - **NOTE:** These describe the unrepentant as a SETTLED PATTERN, not a single fall
+  - "Such were some of you" (1 Cor 6:11) shows these can repent
+- Regulates ordained offices (elder, deacon qualifications)
+- Regulates worship elements or sacraments
+- Governs church discipline process
+
+### IF YES to any → CRITICAL BRANCHING:
+
+**(Not all commands are "Secondary")**
+
+**Evaluate WHAT KIND of command:**
+
+#### A. Touches GOSPEL or CHRIST?
+- Justification, atonement, Christ's person/work
+- → **PRIMARY SALVIFICALLY**
+- → Go to DUAL-LEVEL ANALYSIS
+
+#### B. Structurally alters OFFICES, ELEMENTS, or DISCIPLINE coherence?
+- → At minimum **PRIMARY ECCLESIALLY**
+- → May be secondary salvifically (for those not yet confronted)
+- → But church CANNOT encode it
+- → Go to DUAL-LEVEL ANALYSIS
+
+#### C. Important but doesn't alter structure/gospel?
+- → **SECONDARY** (both levels, pending posture)
+- → Go to DUAL-LEVEL ANALYSIS
+
+### IF NO command present
+→ Likely **SECONDARY**
+→ Go to DUAL-LEVEL ANALYSIS
+
+---
+
+## STEP 6: DUAL-LEVEL ANALYSIS
+
+**⚠️ TEACHER/OFFICER ACCELERATION RULE:**
+
+If person is teacher or officer, shorten "time given" window and escalate faster. Public error requires public correction. Teachers judged more strictly (James 3:1). "Still learning" does not shield influencers from accountability.
+
+**Now evaluate BOTH levels separately:**
+
+---
+
+### A. SALVIFIC LEVEL (For Individuals)
+
+**Can individual be wrong on this and still be saved?**
+
+**IF YES** (e.g., baptism mode, eschatology, egalitarianism in State 1 or 2)
+- → **SECONDARY SALVIFICALLY** (for now)
+- → Go to POSTURE TEST
+- State 1: Not yet confronted with biblical text
+- State 2: Confronted, processing toward submission
+
+**IF NO** (tied to gospel, God's being, Christ's person)
+- → **PRIMARY SALVIFICALLY**
+
+---
+
+### B. ECCLESIAL LEVEL (For Churches/Institutions)
+
+**Can church institutionalize this error without encoding defiance into its structure?**
+
+**Tests:**
+- Affects ordained offices? (elder, deacon)
+- Affects worship elements? (sacraments, structure)
+- Affects discipline coherence?
+- Contradicts creation-grounded order? (1 Tim 2:13)
+- Contradicts apostolic regulation of church order?
+
+**IF YES to any**
+→ **PRIMARY ECCLESIALLY**
+- Church CANNOT institutionalize - it is structural defiance regardless of individual state
+
+**IF NO**
+→ **SECONDARY ECCLESIALLY**
+- Churches may separate for clarity but not required
+- Denominational distinction appropriate
+
+---
+
+## STEP 7: POSTURE TEST (FORENSIC)
+
+### DEFINITION: "Proper Biblical Correction"
+
+- Pericope-level handling (context preserved)
+- Canonical coherence demonstrated (Scripture interprets Scripture)
+- Authorial intent honored (not eisegesis)
+- Creation grounding shown (if applicable)
+- Time given for repentance/processing
+- Witnesses if needed (Matt 18)
+- Church process engaged if appropriate
+
+**FOR TEACHERS/OFFICERS:** Shorter window, faster escalation (James 3:1)
+
+---
+
+### FOR SECONDARY DOCTRINES (Individual Salvific Level):
+
+#### ⚠️ AUTOMATIC STATE 3 IF:
+
+Person TEACHES on **commanded, creation-grounded, apostolic norm** with demonstrable awareness of texts, yet teaches/practices opposite.
+
+**EVIDENCE CHECK (required):**
+
+Materials show engagement with:
+- The specific passage (e.g., 1 Tim 2:11-15)
+- Its creation grounding (e.g., Gen 2 appeal)
+- Its apostolic authority (e.g., "command of Lord")
+
+**PROCESS: ACCELERATED, NOT BYPASSED**
+- Public correction immediately (Gal 2:11-14)
+- Formal charges without delay
+- Exclusion if impenitence clear
+- Church order maintained (Matt 18; 1 Tim 5:19-20)
+
+**TEACHING IGNORANCE EXCEPTION:**
+If upon FIRST showing they immediately submit → DROP TO STATE 2 (rare but just)
+
+**→ PRIMARY SALVIFICALLY (Path 3)**
+**→ Church: Halt teaching, protect flock, process charges**
+
+---
+
+### THREE OBSERVABLE STATES (for those not already in State 3):
+
+#### STATE 1: NOT YET CONFRONTED
+
+**Characteristics:**
+- Never shown biblical text(s) in context
+- No proper exegesis received
+- May have been taught error by trusted sources
+- Has NOT researched or taught on this topic
+
+**Classification:** SECONDARY salvifically (ignorance, not defiance)
+
+**Action:** Private teaching, show the text
+
+---
+
+#### STATE 2: CONFRONTED + SUBMITS (or processing)
+
+**Characteristics:**
+- Shown biblical text in context
+- Exegesis demonstrated clearly
+
+**Observable submission indicators:**
+- Changes view upon seeing text
+- "I need to study this more" (genuinely examining)
+- Asks clarifying questions about the text
+- Wrestling with text, not dismissing it
+- Eventually changes practice/teaching to align
+
+**Classification:** SECONDARY salvifically (teachable, not rebellious)
+
+**Action:** Continue fellowship, monitor fruit
+
+---
+
+#### STATE 3: CONFRONTED + DEFENDS ERROR
+**(OR TEACHES CONTRARY WITH AWARENESS)**
+
+**Characteristics:**
+- Shown biblical text in context
+- OR has taught on topic with demonstrable awareness
+- Exegesis demonstrated clearly (if confronted)
+
+**Observable defiance indicators:**
+- "I disagree" (but cannot show exegetical error)
+- "That was cultural" (when text grounds in creation)
+- "Paul was wrong" / "Just Paul's opinion"
+- "Doesn't apply today" (eisegesis, not exegesis)
+- "I don't care what text says, I believe X"
+- Continues teaching/practicing error after correction
+- Emotional appeals, not biblical argument
+- Stiffens neck, defensive, resents correction
+
+**Process:**
+- After second confrontation with witnesses (Matt 18:16)
+- Teachers: accelerated timeline
+- Still persists in defending the error
+
+**Classification:** PRIMARY SALVIFICALLY (Path 3 - defiance elevated)
+
+**Action:** Tell it to church (Matt 18:17) → Exclusion
+
+---
+
+**KEY:** Willful defiance after proper biblical correction OR teaching contrary to known commanded truth transforms ANY commanded doctrine to primary
+
+---
+
+### FOR CONSCIENCE MATTERS:
+
+**Is person binding others' consciences?**
+
+#### Personal conviction only
+- → **CONSCIENCE** (respect it)
+- → Action: Romans 14:1 - welcome without quarreling
+
+#### Binding others generally
+- Making personal conviction a universal law
+- → **LEGALISM** (rebuke)
+- → Action: Show Scripture gives no command (Col 2:16-23)
+
+#### Binding + making it gospel issue
+- Necessary for salvation/righteousness
+- → **PRIMARY (Path 4 - Gospel contamination)**
+- → Action: Anathema protocol (Gal 1:8-9 pattern)
+
+**GUARDRAILS:**
+- Conscience never overrules command or rewires order
+- Liberty never causes sin, scandalizes, or fractures worship (1 Cor 8-10, 14)
+
+---
+
+## FINAL CLASSIFICATION MATRIX
+
+### DIMENSION 1: INDIVIDUAL (SALVIFIC LEVEL)
+
+| Content | State | Classification |
+|---------|-------|----------------|
+| Primary | Any | PRIMARY - Anathema |
+| Secondary | State 1 (not yet confronted) | SECONDARY - Teach |
+| Secondary | State 2 (submit/processing) | SECONDARY - Fellowship |
+| Secondary | State 3 (defiant) | PRIMARY (Path 3) - Anathema |
+| Secondary (alters offices/elements) | State 1 or 2 | SECONDARY salvific (individual can be saved) |
+| Secondary (alters offices/elements) | State 3 | PRIMARY salvific (defiance) |
+| Conscience | Personal | CONSCIENCE - Liberty |
+| Conscience | Binding | LEGALISM - Rebuke |
+| Conscience | Gospel issue | PRIMARY (Path 4) - Anathema |
+
+---
+
+### DIMENSION 2: CHURCH (ECCLESIAL LEVEL)
+
+| Content | Test | Classification |
+|---------|------|----------------|
+| Primary salvific | Worship/gospel | PRIMARY (Cannot encode) |
+| Secondary content BUT affects structure | Alters offices, elements, discipline, or creation order | PRIMARY ECCLESIALLY (Cannot encode - structural defiance) |
+| Secondary content NOT affecting structure | Doesn't affect structure | SECONDARY ECCLESIALLY (May separate for clarity, not required) |
+| Conscience | Liberty (within guardrails) | Respect both views |
+
+---
+
+## KEY PRINCIPLES
+
+1. **POSTURE ELEVATES INDIVIDUALS, BUT NEVER CONVERTS INSTITUTIONAL ERRORS INTO ACCEPTABLE POLITY**
+
+2. **TEACHER ACCELERATION:** Public error by teachers/officers requires faster escalation and public correction (James 3:1; 1 Tim 5:20)
+
+3. **CONSCIENCE BOUNDARIES:** Romans 14 liberty operates within guardrails - never overrules commands, causes sin, scandalizes weak, or fractures worship
+
+4. **SALVATION-EXCLUSION LISTS:** Describe unrepentant patterns (1 Cor 6:9-10; Gal 5:19-21), not single falls. "Such were some of you" (1 Cor 6:11) shows these can repent
+
+5. **THREE STATES:** Not yet confronted → Teachable → Defiant. Only State 3 elevates to primary salvifically
+
+6. **EVIDENCE CHECK REQUIRED:** For automatic State 3, must demonstrate awareness of texts via materials/history
+
+7. **PROCESS NEVER BYPASSED:** Even State 3 uses accelerated process, not no process. Church order maintained.
+
+---
+
+**END FLOWCHART**
 
 ---
 
